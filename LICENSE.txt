@@ -1,1 +1,2 @@
 LICENSE is a new txt file
+Creating a new branch is so quick
